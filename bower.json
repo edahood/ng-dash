@@ -20,7 +20,9 @@
     "bower_components",
     "test",
     "tests",
-    "Gruntfile.js"
+    "Gruntfile.js",
+    "package.json",
+    "npm-debug.log"
   ],
   "repository": {
     "type": "git",
