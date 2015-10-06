@@ -1,0 +1,29 @@
+{
+  "name": "ngDash",
+  "version": "3.10.1",
+  "authors": [
+    "eliot dahood <eliot.dahood@gmail.com>"
+  ],
+  "description": "Angular Lodash",
+  "main": "dist/ng-dash.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "lodash"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edahood/ng-dash.git"
+  }
+}
